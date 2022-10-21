@@ -7,6 +7,13 @@
 </p>
 <p align="center"><a href="https://blog1-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
+<div align="center"><br>
+  <p align="center">Tecnologias utilizadas</p>
+  <img align="center" alt="dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dri-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="dri-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
 ## :dvd: **Executar**
 
 Para executar esse projeto você precisa clonar ou [`baixar`] este repositório, e clicar no arquivo [`index.html`](index/) e pronto.
@@ -18,6 +25,13 @@ Para executar esse projeto você precisa clonar ou [`baixar`] este repositório,
     <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src="demonstracaoTela2.png">
 </p>
 <p align="center"><a href="https://aviagem-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
+
+<div align="center"><br>
+  <p align="center">Tecnologias utilizadas</p>
+  <img align="center" alt="dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dri-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="dri-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
 ## :dvd: **Executar**
 
@@ -62,9 +76,18 @@ $ yarn start
 </p>
 <p align="center"><a href="https://aviagem-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
+<div align="center"><br>
+  <p align="center">Tecnologias utilizadas</p>
+  <img align="center" alt="dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dri-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="dri-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
 ## :dvd: **Executar**
 
 Para executar esse projeto você precisa clonar ou [`baixar`] este repositório, e clicar no arquivo [`index.html`](index/) e pronto.
+
+##
 
 ### [](https://github.com/driica/DSvendas#--autor) 💎 Autora 
 <img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
