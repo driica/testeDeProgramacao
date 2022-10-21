@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Números Romanos</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/icon?family=Cinzel" rel="stylesheet">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+
+<body>
+
+	<div class="container">
+		<div class="row">
+			<h4>Números Romano</h4>
+		</div>
+
+		<div class="row">
+			<div class="input-field col s12">
+				<label for="decimal" class="active">Número Decimal:</label>
+				<input type="tel" placeholder="Informe um número decimal" id="decimal" autofocus maxlength="4">
+			</div>
+
+			<div class="input-field col s12">
+				<label for="roman" class="active">Número Romano:</label>
+				<input type="text" class="roman" id="roman" readonly="readonly">
+			</div>
+		</div>
+
+		<div class="row" style="display:none" id="prova-real-box">
+			<div class="col s12">
+				<a target="_new" id="prova-real" href=""></a>
+			</div>
+		</div>
+
+		<footer class="footer">
+			<p>copyright © 2022 | Adriana Beatriz</p> <a href="https://github.com/driica"><i
+					class="fab fa-github icon"></i></a>
+			<a href="https://www.linkedin.com/in/adrianabeatriz3/"><i class="fab fa-linkedin icon"></i></a>
+		</footer>
+
+	</div>
+	<script src="script.js"></script>
+</body>
+
+</html>
