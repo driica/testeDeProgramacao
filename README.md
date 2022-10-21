@@ -74,7 +74,7 @@ $ yarn start
 <p align="center">
     <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src="demonstracaoTela3.png">
 </p>
-<p align="center"><a href="https://aviagem-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
+<p align="center"><a href="https://divisor-xi.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
 <div align="center"><br>
   <p align="center">Tecnologias utilizadas</p>
