@@ -66,6 +66,9 @@ $ yarn start
 
 Para executar esse projeto você precisa clonar ou [`baixar`] este repositório, e clicar no arquivo [`index.html`](index/) e pronto.
 
+### [](https://github.com/driica/DSvendas#--autor) 💎 Autora 
+<img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
+
 ##
 
  <p align="center"> Made with ♥ by Adriana Beatriz. <a href="https://www.linkedin.com/in/adrianabeatriz3/"></a></p>
