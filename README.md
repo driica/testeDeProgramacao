@@ -24,7 +24,7 @@ Para executar esse projeto você precisa clonar ou [`baixar`] este repositório,
 <p align="center">
     <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src="demonstracaoTela2.png">
 </p>
-<p align="center"><a href="https://aviagem-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
+<p align="center"><a href="https://jogo-omega.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
 <div align="center"><br>
   <p align="center">Tecnologias utilizadas</p>
