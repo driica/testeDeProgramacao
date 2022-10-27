@@ -91,7 +91,7 @@ Para executar esse projeto você precisa clonar ou [`baixar`] este repositório,
 ##
 
 ### [](https://github.com/driica/DSvendas#--autor) 💎 Autora 
-<img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
+<img style="border-radius: 10px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
 
 ##
 
